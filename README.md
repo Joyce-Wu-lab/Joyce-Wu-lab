@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joyce-Wu-lab
-- 👀 I’m s student in Fudan University, and is interested in NLP.
+- 👀 I’m a student in Fudan University, and is interested in NLP.
 - 🌱 I’m currently learning data structure and digital design.
 - 📫 Here's my e-mail address 13761849151@163.com
 
